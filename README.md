@@ -55,4 +55,43 @@ Please note that the pre-trained models are specific to the stocks symbols in th
 Please also note that the data returned by the methods are in the form of a pandas DataFrame, so you can use the pandas library to manipulate the data as you see fit.
 
 
+# Stocks Monitor (monitor.py)
+
+​	This is a Python example  program that allows the user  to input some stocks and retrieve their future closing price for the next trading day. The results are displayed in a rich table and also stored in a JSON file.
+
+## Requirements
+
+- Python 3.x
+
+- rich library
+- pandas library
+- assets_mon library
+
+## Usage
+
+​	A list of stocks symbols is stored in a text file (./models/stocks.txt). The program reads the stocks symbols from the file and inputs each one to retrieve its future closing price.
+
+​	The resulting rich table displays the stock symbol and the future closing price for each stock.
+
+​	The resulting JSON file stores the stock symbol and the future closing price for each stock in JSON format. The file name is saved in ./json/stocks_json_dd-mm-yyyy.json.
+
+## How to Run
+
+1. Make sure you have installed the required libraries.
+```python
+Copy code
+pip install -r install.txt
+```
+3. Run the monitor.py file.
+
+```python
+Copy code
+python monitor.py
+```
+
+1. The results will be displayed in a rich table and also stored in a JSON file.
+
+
+
+
 
