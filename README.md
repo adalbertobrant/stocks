@@ -94,6 +94,9 @@ python monitor.py
 ![Result from monitor.py](https://github.com/adalbertobrant/stocks/blob/main/screens/monitor_py.png)
 
 
+# Know Issues
+
+​	Sometimes JSON files not work properly, so please go to https://jsonformatter.curiousconcept.com/# and upload the json file, it should resolve this issue.
 
 
 
