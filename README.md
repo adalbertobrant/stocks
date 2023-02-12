@@ -1,6 +1,6 @@
 1. distribuir na internet
 
-# Stock Data Analysis
+# Stock Data Analysis (assets_mon.py)
 
 This program is a class for stock data that uses the yahoo_fin library to pull stock data for a given symbol. The class has several methods, including:
 
