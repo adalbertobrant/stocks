@@ -91,6 +91,8 @@ python monitor.py
 
 1. The results will be displayed in a rich table and also stored in a JSON file.
 
+![Result from monitor.py](https://github.com/adalbertobrant/stocks/blob/main/screens/monitor_py.png)
+
 
 
 
