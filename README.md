@@ -93,10 +93,60 @@ python monitor.py
 
 ![Result from monitor.py](https://github.com/adalbertobrant/stocks/blob/main/screens/monitor_py.png)
 
+# LSTM Stocks Model Generator (prevision_futures.py)
+
+	This code is for predicting the future stock prices using a LSTM neural network. The data used for training the model is the stock information for the past 5 years obtained using the yahoo_fin library.
+
+## Requirements
+
+- yahoo_fin
+- pandas
+- numpy
+- scikit-learn
+- keras
+
+```python
+Copy code
+pip install -r install.txt
+```
+
+## Inputs
+
+​	The input to the `prevision_futures` function is a single string representing the stock symbol for which the future prices need to be predicted.
+
+## Outputs
+
+The output of the function is a saved model in the `./models` directory with the file name `<stock symbol>_.h5`.
+
+## Features
+
+The features used for the stock price prediction are:
+
+- Open price
+- High price of the day
+- Low price of the day
+- Adj Close in the day
+- Volume in the day
+
+## Model Architecture
+
+The model architecture consists of:
+
+- 2 LSTM layers with 128 and 64 units respectively
+- 2 dense layers with 25 and 1 units respectively
+- The model uses the Adam optimizer and the mean squared error as the loss function.
+
+## Training
+
+The model is trained on 80% of the data and validated on 20% of the data. The model is trained for 30 epochs.
+
+
+
+
 
 # Know Issues
 
-​	Sometimes JSON files not work properly, so please go to https://jsonformatter.curiousconcept.com/# and upload the json file, it should resolve this issue.
+1. Sometimes JSON files not work properly, so please go to https://jsonformatter.curiousconcept.com/# and upload the json file, it should resolve this issue.
 
-
+2.  In case if you want to test prevision_futures.py use a GPU (Graphic Processing Unit) with 500 CUDAs or more, it also work with CPU but sometimes the result is not very good and there is a loss in processing data, so it might gave some bias or wrong results.
 
