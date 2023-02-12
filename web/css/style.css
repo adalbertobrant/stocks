@@ -17,8 +17,7 @@ th {
 td {
   text-align: center;
   padding: 8px;
-  border: 1px solid #ccc;
-  
+  border: 1px solid #ccc;  
 }
 
 tr:nth-child(even) {
@@ -27,11 +26,10 @@ tr:nth-child(even) {
 }
 
 .lines:nth-child(even) {
-  background-color: burlywood;
-  
+  background-color: burlywood;  
 }
 #json_data{
   width: 100%;
   text-align: center;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
