@@ -3,7 +3,7 @@ function start(){
   
   lines.innerHTML = "";
   //fetch data from local directory
-  fetch("./json/stocks_json_07-02-2023.json")
+  fetch("./json/stocks_json_12-02-2023.json")
   .then((res) => res.json())
   .then((data) => {
     //create td rows here    
