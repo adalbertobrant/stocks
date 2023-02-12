@@ -1,1 +1,37 @@
-h1
+h1 {
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th {
+  background-color: #ddd;
+  text-align: center;
+  padding: 8px;
+  border: 1px solid #ccc;
+}
+
+td {
+  text-align: center;
+  padding: 8px;
+  border: 1px solid #ccc;
+  
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+  text-align: center;
+}
+
+.lines:nth-child(even) {
+  background-color: burlywood;
+  
+}
+#json_data{
+  width: 100%;
+  text-align: center;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
