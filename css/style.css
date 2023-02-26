@@ -28,6 +28,11 @@ h1 {
   color: #2e8b57;
 }
 
+.box img {
+  max-width: 100%; /* Set the max-width of the img element to be 100% of the parent box */
+  max-height: 100%; /* Set the max-height of the img element to be 100% of the parent box */
+}
+
 .box .logo {
   background-color: #fff;
   position: absolute; /* Add position absolute to the .logo element */
