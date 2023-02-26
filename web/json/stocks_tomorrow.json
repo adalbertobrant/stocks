@@ -1,0 +1,364 @@
+[
+    {
+        "title": "Ambev",
+        "link": "https://en.wikipedia.org/wiki/Ambev",
+        "symbol": "ABEV3",
+        "location": "São Paulo",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ambev_logo.svg/200px-Ambev_logo.svg.png",
+        "price": "13.5937"
+    },
+    {
+        "title": "Azul",
+        "link": "https://en.wikipedia.org/wiki/Azul_Linhas_A%C3%A9reas_Brasileiras",
+        "symbol": "AZUL4",
+        "location": "Barueri",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_Azul.jpg/250px-Logo_Azul.jpg",
+        "price": "8.022995"
+    },
+    {
+        "title": "Banco do Brasil",
+        "link": "https://en.wikipedia.org/wiki/Banco_do_Brasil",
+        "symbol": "BBAS3",
+        "location": "Brasília",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Banco_do_Brasil_logo.svg/250px-Banco_do_Brasil_logo.svg.png",
+        "price": "40.44803"
+    },
+    {
+        "title": "Bradesco",
+        "link": "https://en.wikipedia.org/wiki/Banco_Bradesco",
+        "symbol": "BBDC4",
+        "location": "Osasco",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Banco_Bradesco_logo_%28vertical%29.png/250px-Banco_Bradesco_logo_%28vertical%29.png",
+        "price": "13.515353"
+    },
+    {
+        "title": "Bradespar",
+        "link": "https://en.wikipedia.org/wiki/Bradespar",
+        "symbol": "BRAP4",
+        "location": "São Paulo",
+        "price": "28.270721"
+    },
+    {
+        "title": "Braskem",
+        "link": "https://en.wikipedia.org/wiki/Braskem",
+        "symbol": "BRKM5",
+        "location": "São Paulo",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Braskem_logo.svg/250px-Braskem_logo.svg.png",
+        "price": "20.005802"
+    },
+    {
+        "title": "BRF",
+        "link": "https://en.wikipedia.org/wiki/BRF_S.A.",
+        "symbol": "BRFS3",
+        "location": "Itajaí",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/BRF_S.A._logo.svg/150px-BRF_S.A._logo.svg.png",
+        "price": "6.3918257"
+    },
+    {
+        "title": "BTG Pactual",
+        "link": "https://en.wikipedia.org/wiki/BTG_Pactual",
+        "symbol": "BPAC11",
+        "location": "São Paulo",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Btg-logo-blue.svg/220px-Btg-logo-blue.svg.png",
+        "price": "20.475142"
+    },
+    {
+        "title": "Carrefour Brasil",
+        "link": "https://en.wikipedia.org/wiki/Carrefour",
+        "symbol": "CRFB3",
+        "location": "São Paulo",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Carrefour_logo.svg/220px-Carrefour_logo.svg.png",
+        "price": "14.35925"
+    },
+    {
+        "title": "CCR",
+        "link": "https://en.wikipedia.org/wiki/CCR_S.A.",
+        "symbol": "CCRO3",
+        "location": "São Paulo",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Grupo_CCR.svg/100px-Grupo_CCR.svg.png",
+        "price": "11.089654"
+    },
+    {
+        "title": "CEMIG",
+        "link": "https://en.wikipedia.org/wiki/CEMIG",
+        "symbol": "CMIG4",
+        "location": "Belo Horizonte",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Companhia_Energ%C3%A9tica_de_Minas_Gerais_logo.svg/220px-Companhia_Energ%C3%A9tica_de_Minas_Gerais_logo.svg.png",
+        "price": "10.456109"
+    },
+    {
+        "title": "Cielo",
+        "link": "https://en.wikipedia.org/wiki/Cielo_S.A.",
+        "symbol": "CIEL3",
+        "location": "Barueri",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cielo_S.A._logo.svg/120px-Cielo_S.A._logo.svg.png",
+        "price": "4.868033"
+    },
+    {
+        "title": "Cosan",
+        "link": "https://en.wikipedia.org/wiki/Cosan",
+        "symbol": "CSAN3",
+        "location": "São Paulo",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Cosan.svg/160px-Cosan.svg.png",
+        "price": "15.020772"
+    },
+    {
+        "title": "CPFL Energia",
+        "link": "https://en.wikipedia.org/wiki/CPFL_Energia",
+        "symbol": "CPFE3",
+        "location": "Campinas",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Logo_CPFL_Energia.svg/160px-Logo_CPFL_Energia.svg.png",
+        "price": "30.1976"
+    },
+    {
+        "title": "CSN",
+        "link": "https://en.wikipedia.org/wiki/Companhia_Sider%C3%BArgica_Nacional",
+        "symbol": "CSNA3",
+        "location": "Rio de Janeiro",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Companhia_Sider%C3%BArgica_Nacional_logo.svg/220px-Companhia_Sider%C3%BArgica_Nacional_logo.svg.png",
+        "price": "17.069395"
+    },
+    {
+        "title": "EDP - Energias do Brasil",
+        "link": "https://en.wikipedia.org/wiki/EDP_-_Energias_do_Brasil",
+        "symbol": "ENBR3",
+        "location": "São Paulo",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/EDP_Brasil_logo.png/120px-EDP_Brasil_logo.png",
+        "price": "20.006529"
+    },
+    {
+        "title": "Eletrobras",
+        "link": "https://en.wikipedia.org/wiki/Eletrobras",
+        "symbol": "ELET3",
+        "location": "Rio de Janeiro",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Eletrobras.png/220px-Eletrobras.png",
+        "price": "35.041683"
+    },
+    {
+        "title": "Embraer",
+        "link": "https://en.wikipedia.org/wiki/Embraer",
+        "symbol": "EMBR3",
+        "location": "São José dos Campos",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Embraer_logo.svg/250px-Embraer_logo.svg.png",
+        "price": "16.094757"
+    },
+    {
+        "title": "ENGIE Brasil",
+        "link": "https://en.wikipedia.org/wiki/ENGIE_Brasil",
+        "symbol": "EGIE3",
+        "location": "Florianópolis",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Logo-engie.svg/220px-Logo-engie.svg.png",
+        "price": "39.27544"
+    },
+    {
+        "title": "Equatorial Energia",
+        "link": "https://en.wikipedia.org/w/index.php?title=Equatorial_Energia&action=edit&redlink=1",
+        "symbol": "EQTL3",
+        "location": "Brasília",
+        "price": "25.817831"
+    },
+    {
+        "title": "Gol",
+        "link": "https://en.wikipedia.org/wiki/Gol_Transportes_A%C3%A9reos",
+        "symbol": "GOLL4",
+        "location": "São Paulo",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/GOL_logo.svg/150px-GOL_logo.svg.png",
+        "price": "5.830771"
+    },
+    {
+        "title": "Grupo Fleury",
+        "link": "https://en.wikipedia.org/w/index.php?title=Grupo_Fleury&action=edit&redlink=1",
+        "symbol": "FLRY3",
+        "location": "São Paulo",
+        "price": "14.656551"
+    },
+    {
+        "title": "Grupo Hapvida",
+        "link": "https://en.wikipedia.org/w/index.php?title=Grupo_Hapvida&action=edit&redlink=1",
+        "symbol": "HAPV3",
+        "location": "Fortaleza",
+        "price": "4.8463864"
+    },
+    {
+        "title": "Hypera Pharma",
+        "link": "https://en.wikipedia.org/wiki/Hypera_Pharma",
+        "symbol": "HYPE3",
+        "location": "São Paulo",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Hypermarcas.svg/220px-Hypermarcas.svg.png",
+        "price": "43.65385"
+    },
+    {
+        "title": "Itaú Unibanco",
+        "link": "https://en.wikipedia.org/wiki/Ita%C3%BA_Unibanco",
+        "symbol": "ITUB4",
+        "location": "São Paulo",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Banco_Ita%C3%BA_logo.svg/150px-Banco_Ita%C3%BA_logo.svg.png",
+        "price": "25.972656"
+    },
+    {
+        "title": "Itaúsa",
+        "link": "https://en.wikipedia.org/wiki/Ita%C3%BAsa",
+        "symbol": "ITSA4",
+        "location": "São Paulo",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/ITAUSA.svg/200px-ITAUSA.svg.png",
+        "price": "8.38971"
+    },
+    {
+        "title": "JBS",
+        "link": "https://en.wikipedia.org/wiki/JBS_S.A.",
+        "symbol": "JBSS3",
+        "location": "São Paulo",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/JBS_S.A._%28logo%29.svg/200px-JBS_S.A._%28logo%29.svg.png",
+        "price": "17.607193"
+    },
+    {
+        "title": "Klabin",
+        "link": "https://en.wikipedia.org/wiki/Klabin",
+        "symbol": "KLBN11",
+        "location": "São Paulo",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Klabin.svg/120px-Klabin.svg.png",
+        "price": "19.035385"
+    },
+    {
+        "title": "Lojas Renner",
+        "link": "https://en.wikipedia.org/wiki/Lojas_Renner",
+        "symbol": "LREN3",
+        "location": "Porto Alegre",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Novo_renner.png/220px-Novo_renner.png",
+        "price": "19.006962"
+    },
+    {
+        "title": "Magazine Luiza",
+        "link": "https://en.wikipedia.org/wiki/Magazine_Luiza",
+        "symbol": "MGLU3",
+        "location": "São Paulo",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Magalu_-_novo_logo.png/220px-Magalu_-_novo_logo.png",
+        "price": "3.6129837"
+    },
+    {
+        "title": "Marfrig",
+        "link": "https://en.wikipedia.org/wiki/Marfrig",
+        "symbol": "MRFG3",
+        "location": "São Paulo",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Global_fundo_transparente.png/220px-Global_fundo_transparente.png",
+        "price": "6.068179"
+    },
+    {
+        "title": "Metalúrgica Gerdau",
+        "link": "https://en.wikipedia.org/wiki/Metal%C3%BArgica_Gerdau",
+        "symbol": "GOAU4",
+        "location": "Porto Alegre",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Gerdau_logo_%282011%29.svg/220px-Gerdau_logo_%282011%29.svg.png",
+        "price": "12.531434"
+    },
+    {
+        "title": "Multiplan",
+        "link": "https://en.wikipedia.org/w/index.php?title=Multiplan_S.A.&action=edit&redlink=1",
+        "symbol": "MULT3",
+        "location": "Rio de Janeiro",
+        "price": "24.853447"
+    },
+    {
+        "title": "Petrobras",
+        "link": "https://en.wikipedia.org/wiki/Petrobras",
+        "symbol": "PETR4",
+        "location": "Rio de Janeiro",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Petrobras_horizontal_logo.svg/255px-Petrobras_horizontal_logo.svg.png",
+        "price": "25.958887"
+    },
+    {
+        "title": "Petrobras Distribuidora",
+        "link": "https://en.wikipedia.org/wiki/Petrobras_Distribuidora",
+        "symbol": "VBBR3",
+        "location": "Rio de Janeiro",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Logo_Vibra_Energia_2.png/150px-Logo_Vibra_Energia_2.png",
+        "price": "15.258056"
+    },
+    {
+        "title": "Qualicorp",
+        "link": "https://en.wikipedia.org/w/index.php?title=Qualicorp&action=edit&redlink=1",
+        "symbol": "QUAL3",
+        "location": "São Paulo",
+        "price": "5.086983"
+    },
+    {
+        "title": "RaiaDrogasil",
+        "link": "https://en.wikipedia.org/wiki/RD_S.A.",
+        "symbol": "RADL3",
+        "location": "São Paulo",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Logo_Raiadrogasil.png/220px-Logo_Raiadrogasil.png",
+        "price": "22.97078"
+    },
+    {
+        "title": "Rumo",
+        "link": "https://en.wikipedia.org/wiki/Rumo_S.A.",
+        "symbol": "RAIL3",
+        "location": "Curitiba",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Rumo_Log%C3%ADstica_logo.svg/220px-Rumo_Log%C3%ADstica_logo.svg.png",
+        "price": "17.990627"
+    },
+    {
+        "title": "Santander Brasil",
+        "link": "https://en.wikipedia.org/wiki/Santander_Brasil",
+        "symbol": "SANB11",
+        "location": "São Paulo",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Banco_Santander_Logotipo.svg/250px-Banco_Santander_Logotipo.svg.png",
+        "price": "29.39069"
+    },
+    {
+        "title": "Suzano Papel e Celulose",
+        "link": "https://en.wikipedia.org/wiki/Suzano_Papel_e_Celulose",
+        "symbol": "SUZB3",
+        "location": "Salvador",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Suzano.svg/220px-Suzano.svg.png",
+        "price": "45.97618"
+    },
+    {
+        "title": "Telefônica Brasil",
+        "link": "https://en.wikipedia.org/wiki/Telef%C3%B4nica_Brasil",
+        "symbol": "VIVT3",
+        "location": "São Paulo",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Telef%C3%B3nica_2021_logo.svg/250px-Telef%C3%B3nica_2021_logo.svg.png",
+        "price": "40.01878"
+    },
+    {
+        "title": "Ultrapar",
+        "link": "https://en.wikipedia.org/wiki/Ultrapar",
+        "symbol": "UGPA3",
+        "location": "São Paulo",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ultrapar.svg/150px-Ultrapar.svg.png",
+        "price": "13.666502"
+    },
+    {
+        "title": "Usiminas",
+        "link": "https://en.wikipedia.org/wiki/Usiminas",
+        "symbol": "USIM5",
+        "location": "Belo Horizonte",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Usiminas_Logo.svg/200px-Usiminas_Logo.svg.png",
+        "price": "7.0009627"
+    },
+    {
+        "title": "Vale",
+        "link": "https://en.wikipedia.org/wiki/Vale_(mining_company)",
+        "symbol": "VALE3",
+        "location": "Rio de Janeiro",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Vale_logo.svg/200px-Vale_logo.svg.png",
+        "price": "85.33667"
+    },
+    {
+        "title": "Via",
+        "link": "https://en.wikipedia.org/wiki/Via_(retailer)",
+        "symbol": "VIIA3",
+        "location": "São Caetano do Sul",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Logo-Via.png/220px-Logo-Via.png",
+        "price": "1.9910898"
+    },
+    {
+        "title": "WEG",
+        "link": "https://en.wikipedia.org/wiki/WEG_Industries",
+        "symbol": "WEGE3",
+        "location": "Jaraguá do Sul",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Weg_logo_blue_vector.svg/150px-Weg_logo_blue_vector.svg.png",
+        "price": "39.780746"
+    }
+]
