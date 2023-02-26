@@ -30,5 +30,12 @@ h1 {
 
 .box .logo {
   background-color: #fff;
+  position: absolute; /* Add position absolute to the .logo element */
+  top: 50%; /* Set the top of the logo element to 50% of the parent element */
+  left: 50%; /* Set the left of the logo element to 50% of the parent element */
+  transform: translate(-50%, -50%); /* Center the logo element */
+  max-width: 80%; /* Set the max-width of the logo element to be 80% of the parent element */
+  max-height: 80%; /* Set the max-height of the logo element to be 80% of the parent element */
+  
 }
 
