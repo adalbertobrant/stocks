@@ -1,4 +1,5 @@
 function start() {
+  alert("ATENÇÃO: As informações apresentadas neste site não devem ser consideradas como aconselhamento, recomendação, oferta ou solicitação para comprar ou vender ações, títulos, valores mobiliários ou qualquer outro instrumento financeiro. É importante destacar que investimentos envolvem riscos e é responsabilidade do investidor avaliar cuidadosamente suas opções antes de tomar qualquer decisão de investimento. Os dados fornecidas neste site são apenas para fins informativos, educacionais e não garantem a precisão ou integridade dos dados apresentados.")
   // fetch data from local directory
   fetch("./json/stocks_tomorrow.json")
     .then((res) => res.json())
