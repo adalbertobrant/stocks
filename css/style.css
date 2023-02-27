@@ -14,14 +14,19 @@ h1 {
 }
 
 .box {
-  width: 30%;
-  height: 30%;
+  width: 40%;
+  height: 40%;
   margin: 2%;
   padding: 2%;
   border: 1px solid #ccc;
   text-align: center;
   background-color: #f9f9f9;
   color: #444444;
+}
+
+.box h2 {
+  font-size: 1.5em;
+  margin-top: 0; /* Remove the default margin of the h2 element */
 }
 
 .box a {
@@ -44,3 +49,6 @@ h1 {
   
 }
 
+footer {
+  color: #fffdfd;
+}
