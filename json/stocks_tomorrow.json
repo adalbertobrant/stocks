@@ -36,6 +36,7 @@
         "link": "https://en.wikipedia.org/wiki/Bradespar",
         "symbol": "BRAP4",
         "location": "São Paulo",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/pt/c/c6/Bradespar.jpg",
         "price": "28.270721"
     },
     {
@@ -170,6 +171,7 @@
         "link": "https://en.wikipedia.org/w/index.php?title=Grupo_Fleury&action=edit&redlink=1",
         "symbol": "FLRY3",
         "location": "São Paulo",
+        "logo_link": "https://www.grupofleury.com.br/Style%20Library/imagens/logo.png",
         "price": "14.656551"
     },
     {
@@ -177,6 +179,7 @@
         "link": "https://en.wikipedia.org/w/index.php?title=Grupo_Hapvida&action=edit&redlink=1",
         "symbol": "HAPV3",
         "location": "Fortaleza",
+        "logo_link": "https://www.hapvidagndi.com.br/themes/custom/default/logo.svg",
         "price": "4.8463864"
     },
     {
@@ -256,6 +259,7 @@
         "link": "https://en.wikipedia.org/w/index.php?title=Multiplan_S.A.&action=edit&redlink=1",
         "symbol": "MULT3",
         "location": "Rio de Janeiro",
+        "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Multiplan.svg/1920px-Multiplan.svg.png",
         "price": "24.853447"
     },
     {
@@ -279,10 +283,11 @@
         "link": "https://en.wikipedia.org/w/index.php?title=Qualicorp&action=edit&redlink=1",
         "symbol": "QUAL3",
         "location": "São Paulo",
+        "logo_link": "https://www.qualicorp.com.br/wp-content/uploads/2021/08/cropped-Logo_HomeQuali.png",
         "price": "5.086983"
     },
     {
-        "title": "RaiaDrogasil",
+        "title": "Raia Drogasil",
         "link": "https://en.wikipedia.org/wiki/RD_S.A.",
         "symbol": "RADL3",
         "location": "São Paulo",
